@@ -5,4 +5,4 @@ Hi there! 👋
 
 📫 You can reach me on GitHub or Twitter at @ITx-prash.  
 
-⚡ Fun fact:A Marvel fan and an average anime enthusiast.  
+⚡ Fun fact: A Marvel fan and an anime enthusiast.  
