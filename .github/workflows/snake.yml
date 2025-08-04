@@ -25,7 +25,7 @@ on:
     branches:
 
       - main
-
+      - break-and-build
 
 
 jobs:
