@@ -78,9 +78,9 @@ jobs:
 
 
 
-      # Step 3: Deploy the generated files to the 'break-and-build' branch
+      # Step 3: Deploy the generated files to the 'break-and-build-2' branch
 
-      - name: Deploy to break-and-build Branch
+      - name: Deploy to break-and-build-2 Branch
 
         uses: peaceiris/actions-gh-pages@v3
 
@@ -90,7 +90,7 @@ jobs:
 
           publish_dir: ./dist
 
-          publish_branch: break-and-build
+          publish_branch: break-and-build-2
 
           # Optionally, you can set a custom commit message
 
