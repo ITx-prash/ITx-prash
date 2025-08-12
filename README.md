@@ -1,11 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ITx-prash.ITx-prash" />
 
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ITx-prash.ITx-prash" />
+-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+Adhikari!;" />
 </h1>
-<h3 align="center"> Dreaming in Code 💫 | Just Vibin' & Buildin’ Stuff 🛠️ </h3>
+<h3 align="center"> If it’s tech, I’m all in — 🚀 crafting clean UI & clever code</h3>
 
 
+<!-- 
 <div align="center">
   <br>
   <h2>My Contributions</h2>
@@ -13,7 +15,7 @@
   
   <br/><br/><br/>
 </div>
-
+-->
 
 <!-- ![ITx-prash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITx-prash&show_icons=true&theme=radical) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITx-prash&layout=compact) -->
